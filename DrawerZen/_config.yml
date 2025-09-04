@@ -1,0 +1,8 @@
+# GitHub Pages Configuration
+# This repository uses GitHub Actions for deployment, not Jekyll
+
+# Disable Jekyll processing
+jekyll: false
+
+# Force GitHub to use GitHub Actions
+source: github-actions
